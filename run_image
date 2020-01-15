@@ -1,0 +1,2 @@
+source /home/morrrr/project/bin/activate
+python TFLite_detection_video.py --modeldir Sample_TFLite_model --video test4.mp4
